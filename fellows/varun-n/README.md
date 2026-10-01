@@ -1,8 +1,9 @@
 # Varun N.
 
 **Role:** AI Engineer  
-**Project:** _to be filled in_  
-**GitHub:** [@OMEGA-84](https://github.com/OMEGA-84)
+**Project:** Medhavy  
+**GitHub:** [@Omega-84](https://github.com/Omega-84)  
+**Voice:** Kokoro `bm_george` (UK male) -- chosen 2026-09-30 from a six-voice test render; not used by any other fellow on the build machine. Used for every video; any change is a logged re-voice decision.
 
 ## What's in this folder
 
