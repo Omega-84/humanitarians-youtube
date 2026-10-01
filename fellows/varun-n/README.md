@@ -7,7 +7,15 @@
 
 ## What's in this folder
 
-No work in this folder yet. Each piece of work gets its own dated,
+Weekly progress reels for Project Medhavy (16:9 and 9:16, 4K, 30fps). Each
+week's video is linked from its folder README.
+
+| Week | Folder |
+|---|---|
+| 1 (Aug 1-7) | [2026-08-07-progress-starting-over](2026-08-07-progress-starting-over/) |
+| 2 (Aug 8-14) | [2026-08-14-progress-white-background](2026-08-14-progress-white-background/) |
+
+Each piece of work gets its own dated,
 lowercase-kebab subfolder — `YYYY-MM-DD-short-slug/` — holding its
 `beat_sheet.json`, README, sources and build assets.
 
