@@ -23,6 +23,7 @@ week's video is linked from its folder README.
 | 9 (Sep 26-Oct 2) | [2026-10-02-progress-six-shorts-live](2026-10-02-progress-six-shorts-live/) |
 | 10 (Oct 3-9) | [2026-10-09-progress-intro-outro-approved](2026-10-09-progress-intro-outro-approved/) |
 | 11 (Oct 10-16) | [2026-10-16-progress-chapter-six-rebuilt](2026-10-16-progress-chapter-six-rebuilt/) |
+| 12 (Oct 17-23) | [2026-10-23-progress-thirty-of-thirty](2026-10-23-progress-thirty-of-thirty/) |
 
 Each piece of work gets its own dated,
 lowercase-kebab subfolder — `YYYY-MM-DD-short-slug/` — holding its
