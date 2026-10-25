@@ -4,8 +4,8 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 
 ## Collection snapshot
 
-- Video projects with `beat_sheet.json`: **24**
-- Authored beats represented: **186**
+- Video projects with `beat_sheet.json`: **27**
+- Authored beats represented: **204**
 - Masters present locally: **0**
 - Review cuts present locally: **0**
 - Audio-stage projects: **0**
@@ -47,8 +47,11 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 | `medhavy-orbit-energy-paradox` | Why Does Speeding Up A Satellite Slow It Down? | Physics Vol. 1 §13.4 | MEDHAVY | am_michael | 6 | 1:55 | published (YouTube Short) | no | no | no |
 | `medhavy-pe-diagram-forbidden-zones` | Why Can't A Particle Pass Certain Points? | Physics Vol. 1 §8.4 | MEDHAVY | am_michael | 7 | 1:45 | published (YouTube Short) | no | no | no |
 | `medhavy-pendulum-mass-independence` | Does A Heavier Pendulum Swing Slower? | Physics Vol. 1 §15.4 | MEDHAVY | am_michael | 6 | 1:34 | published (YouTube Short) | no | no | no |
+| `medhavy-resonance` | How Can Tiny Footsteps Sway A Bridge? | Physics Vol. 1 §15.6 | MEDHAVY | am_michael | 6 | 1:48 | scheduled (YouTube Short) | no | no | no |
+| `medhavy-rocket-propulsion` | How Does A Rocket Accelerate In Empty Space? | Physics Vol. 1 §9.7 | MEDHAVY | am_michael | 6 | 1:45 | scheduled (YouTube Short) | no | no | no |
+| `medhavy-rolling-wheel` | How Fast Is The Bottom Of A Rolling Wheel? | Physics Vol. 1 §11.1 | MEDHAVY | am_michael | 6 | 2:02 | scheduled (YouTube Short) | no | no | no |
 
-_The Manim scripts in the twelve projects from `medhavy-centripetal-friction` onward share `medhavy_common.py` in this folder; the first six (`medhavy-ball-and-feather` to `medhavy-weight-vs-mass`) are standalone._
+_The Manim scripts in the fifteen projects from `medhavy-centripetal-friction` onward share `medhavy_common.py` in this folder; the first six (`medhavy-ball-and-feather` to `medhavy-weight-vs-mass`) are standalone._
 
 ## Repository conventions
 
@@ -63,7 +66,7 @@ _This inventory is generated from the current filesystem and should be refreshed
 
 # Claude For Physics
 
-This folder organizes **24 video projects** built around beat sheets. Each project README explains the subject, supplies research and fact-check prompts, and documents the free local rebuild workflow.
+This folder organizes **27 video projects** built around beat sheets. Each project README explains the subject, supplies research and fact-check prompts, and documents the free local rebuild workflow.
 
 ## Rebuild toolkit
 
@@ -102,5 +105,8 @@ Brutalist is audio-first and local: the beat sheet drives narration, measured au
 - [Why Does Speeding Up A Satellite Slow It Down?](./medhavy-orbit-energy-paradox/)
 - [Why Can't A Particle Pass Certain Points?](./medhavy-pe-diagram-forbidden-zones/)
 - [Does A Heavier Pendulum Swing Slower?](./medhavy-pendulum-mass-independence/)
+- [How Can Tiny Footsteps Sway A Bridge?](./medhavy-resonance/)
+- [How Does A Rocket Accelerate In Empty Space?](./medhavy-rocket-propulsion/)
+- [How Fast Is The Bottom Of A Rolling Wheel?](./medhavy-rolling-wheel/)
 
 <!-- END BRUTALIST REBUILD GUIDE -->
