@@ -41,7 +41,7 @@ Each point comes from the takeaway recorded in that week's log.
 
 ## Degree Relevance and Supervision
 
-This work applies MS in Business Analytics coursework directly: process and workflow design, quality assurance and measurement (render and encode benchmarks, a recount that corrected the project's scope from 29 to 31 storyboards), stakeholder feedback loops with faculty reviewers, and applied AI tooling.
+This work applies MS in Business Analytics coursework in Python, AI tools, and process and quality measurement, for example render benchmarks and a recount that corrected the project's scope from 29 to 31 storyboards.
 
 **Supervisor:** the supervising professor on the Medhavy team (real name included in the private email only, per the naming policy for public documents)
 
