@@ -11,3 +11,7 @@
 **What Claude contributed, and what I accepted, changed or rejected:** Claude Code rebuilt the three videos and fixed the defects, then checked the static-friction legend and the centripetal short's question card and seams. I decided where the intro and outro apply and told it to continue with chapter 6.
 
 **What I understand now, and what I still don't:** Still open: the remaining concepts (21 at the time of the next count) and the ball-and-feather long-form. Next: build all remaining videos.
+
+## Correction (2026-10-25)
+
+The 10-15 entry above says I "supplied" the final intro and outro clips. To be clear: I did not create them. I handed the finished clips to Claude Code, which integrated them at my direction, and I decided that they apply to new Shorts only, with no intro or outro on long-form videos.
