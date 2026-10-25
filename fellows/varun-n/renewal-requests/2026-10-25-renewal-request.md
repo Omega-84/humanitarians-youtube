@@ -18,17 +18,9 @@ Evidence: the Published Shorts index below (YouTube link and code for each of th
 One progress video per week, each with a beat sheet, README and Frictional log, built through a spec-to-video pipeline (beat sheet, narration, render, compile with automatic frame checks) following the Humanitarians AI Brutalist/fellows-folder specification. From Week 2 on, each video includes an animated visual. Personal contribution: supplying each week's account, reviewing every video in both orientations, and approving the format.
 Evidence: the Weekly Evidence Index below. Weeks 1-8 were merged in [PR #182](https://github.com/nikbearbrown/humanitarians-youtube/pull/182) on October 23, 2026. Weeks 9-12 are delivered and in [PR #296](https://github.com/nikbearbrown/humanitarians-youtube/pull/296), open and awaiting review.
 
-**3. Studio intro and outro approved and put into the pipeline**
-The professor approved the new studio intro and outro at the October 5 meeting. They are used for all new Shorts after the original six; long-form videos carry none. After my feedback that the intro felt abrupt, the transition was rebuilt and 23 Shorts waiting for review were re-stitched.
-Evidence: Frictional logs for Weeks 10, 11 and 12 in the index below.
-
-**4. Free, open-source narration and faster rendering**
-Moved narration to a free local voice model (no paid API), tested GPU narration (about 6.5x faster, kept opt-in because it is not bit-identical), moved 4K encodes to the GPU, and rejected a GPU renderer that benchmarked about 23% slower. Personal contribution: the benchmarking decisions and listening checks.
-Evidence: Frictional logs for Weeks 8 and 12 in the index below.
-
-**5. Medhavy AI YouTube channel maintenance**
-Assigned by the faculty reviewers on September 22: about ten videos that were not explainer-style were unlisted (my count).
-Evidence: not stored in the GitHub repository (done in YouTube Studio).
+**3. Pipeline and channel: approved studio intro and outro, free open-source narration, faster rendering, channel maintenance**
+The professor approved the new studio intro and outro at the October 5 meeting. They are used for all new Shorts after the original six (long-form videos carry none), and after my feedback that the intro felt abrupt, the transition was rebuilt and 23 Shorts waiting for review were re-stitched. Narration moved to a free local voice model (no paid API); GPU narration was tested (about 6.5x faster, kept opt-in because it is not bit-identical), 4K encodes moved to the GPU, and a GPU renderer that benchmarked about 23% slower was rejected. On September 22 the faculty reviewers also assigned me maintenance of the Medhavy AI YouTube channel, and about ten videos that were not explainer-style were unlisted (my count). Personal contribution: the review feedback and approvals, the benchmarking decisions, and the listening checks.
+Evidence: Frictional logs for Weeks 8, 10, 11 and 12 in the index below. The channel maintenance is not stored in the GitHub repository (done in YouTube Studio).
 
 ---
 
@@ -58,12 +50,12 @@ This work applies MS in Business Analytics coursework directly: process and work
 ## Next Period (November 1, 2026 to February 8, 2027)
 
 **Deliverable 1:** Finish the mechanics Shorts: publish the remaining Shorts and add their code and READMEs to the repository.
+**Target date:** November 5, 2026
 
 **Deliverable 2:** Add the long-form videos to the physics textbook.
+**Target date:** end of November or the first week of December 2026
 
-**Deliverable 3:** An agentic or machine-learning task, to be agreed with the supervising professor at the start of the renewed period.
-
-Timing is set within the renewal period, in order and in agreement with the supervising professor.
+**Deliverable 3:** An agentic or machine-learning task. The task has not been decided yet; I will request it from the supervising professor and agree its target date with them.
 
 ---
 
