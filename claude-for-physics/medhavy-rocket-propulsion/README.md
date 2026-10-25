@@ -10,7 +10,7 @@ A rocket needs nothing to push against, because it pushes on its own exhaust and
 
 Rendered videos are not stored in this repository.
 
-- YouTube Short (scheduled): https://www.youtube.com/shorts/qTdUwJyLN5E
+- YouTube Short: https://www.youtube.com/shorts/qTdUwJyLN5E
 - Google Drive: https://drive.google.com/file/d/1K7mjdWf3iVk-xVVUiifIJ6FNZcLpUxDD/view?usp=drive_link
 
 | Cut | File | Resolution | Runtime |

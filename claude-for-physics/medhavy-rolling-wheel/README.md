@@ -10,7 +10,7 @@ The point of a rolling wheel that touches the ground is, for an instant, perfect
 
 Rendered videos are not stored in this repository.
 
-- YouTube Short (scheduled): https://www.youtube.com/shorts/YM1C4FW05t8
+- YouTube Short: https://www.youtube.com/shorts/YM1C4FW05t8
 - Google Drive: https://drive.google.com/file/d/1sc05LzHOZzL_j4-GJ3t6WurgDquL11fM/view?usp=drive_link
 
 | Cut | File | Resolution | Runtime |

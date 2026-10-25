@@ -10,7 +10,7 @@ A small driving force applied at the natural frequency produces a large response
 
 Rendered videos are not stored in this repository.
 
-- YouTube Short (scheduled): https://www.youtube.com/shorts/7Twet2H-scs
+- YouTube Short: https://www.youtube.com/shorts/7Twet2H-scs
 - Google Drive: https://drive.google.com/file/d/1rj-j7nOx0GHNrHI_QwP_U1Ukna1KSf_g/view?usp=drive_link
 
 | Cut | File | Resolution | Runtime |

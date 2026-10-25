@@ -47,9 +47,9 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 | `medhavy-orbit-energy-paradox` | Why Does Speeding Up A Satellite Slow It Down? | Physics Vol. 1 §13.4 | MEDHAVY | am_michael | 6 | 1:55 | published (YouTube Short) | no | no | no |
 | `medhavy-pe-diagram-forbidden-zones` | Why Can't A Particle Pass Certain Points? | Physics Vol. 1 §8.4 | MEDHAVY | am_michael | 7 | 1:45 | published (YouTube Short) | no | no | no |
 | `medhavy-pendulum-mass-independence` | Does A Heavier Pendulum Swing Slower? | Physics Vol. 1 §15.4 | MEDHAVY | am_michael | 6 | 1:34 | published (YouTube Short) | no | no | no |
-| `medhavy-resonance` | How Can Tiny Footsteps Sway A Bridge? | Physics Vol. 1 §15.6 | MEDHAVY | am_michael | 6 | 1:48 | scheduled (YouTube Short) | no | no | no |
-| `medhavy-rocket-propulsion` | How Does A Rocket Accelerate In Empty Space? | Physics Vol. 1 §9.7 | MEDHAVY | am_michael | 6 | 1:45 | scheduled (YouTube Short) | no | no | no |
-| `medhavy-rolling-wheel` | How Fast Is The Bottom Of A Rolling Wheel? | Physics Vol. 1 §11.1 | MEDHAVY | am_michael | 6 | 2:02 | scheduled (YouTube Short) | no | no | no |
+| `medhavy-resonance` | How Can Tiny Footsteps Sway A Bridge? | Physics Vol. 1 §15.6 | MEDHAVY | am_michael | 6 | 1:48 | published (YouTube Short) | no | no | no |
+| `medhavy-rocket-propulsion` | How Does A Rocket Accelerate In Empty Space? | Physics Vol. 1 §9.7 | MEDHAVY | am_michael | 6 | 1:45 | published (YouTube Short) | no | no | no |
+| `medhavy-rolling-wheel` | How Fast Is The Bottom Of A Rolling Wheel? | Physics Vol. 1 §11.1 | MEDHAVY | am_michael | 6 | 2:02 | published (YouTube Short) | no | no | no |
 
 _The Manim scripts in the fifteen projects from `medhavy-centripetal-friction` onward share `medhavy_common.py` in this folder; the first six (`medhavy-ball-and-feather` to `medhavy-weight-vs-mass`) are standalone._
 
