@@ -4,8 +4,8 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 
 ## Collection snapshot
 
-- Video projects with `beat_sheet.json`: **27**
-- Authored beats represented: **204**
+- Video projects with `beat_sheet.json`: **35**
+- Authored beats represented: **253**
 - Masters present locally: **0**
 - Review cuts present locally: **0**
 - Audio-stage projects: **0**
@@ -50,8 +50,16 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 | `medhavy-resonance` | How Can Tiny Footsteps Sway A Bridge? | Physics Vol. 1 §15.6 | MEDHAVY | am_michael | 6 | 1:48 | published (YouTube Short) | no | no | no |
 | `medhavy-rocket-propulsion` | How Does A Rocket Accelerate In Empty Space? | Physics Vol. 1 §9.7 | MEDHAVY | am_michael | 6 | 1:45 | published (YouTube Short) | no | no | no |
 | `medhavy-rolling-wheel` | How Fast Is The Bottom Of A Rolling Wheel? | Physics Vol. 1 §11.1 | MEDHAVY | am_michael | 6 | 2:02 | published (YouTube Short) | no | no | no |
+| `medhavy-shm-circular-motion` | What Do A Spring And A Spinning Wheel Share? | Physics Vol. 1 §15.3 | MEDHAVY | am_michael | 6 | 1:35 | published (YouTube Short) | no | no | no |
+| `medhavy-sonic-boom` | What Happens At The Speed Of Sound? | Physics Vol. 1 §17.8 | MEDHAVY | am_michael | 6 | 2:16 | published (YouTube Short) | no | no | no |
+| `medhavy-spinning-skater` | Why Does A Skater Spin Faster With Arms In? | Physics Vol. 1 §11.3 | MEDHAVY | am_michael | 6 | 1:59 | published (YouTube Short) | no | no | no |
+| `medhavy-standing-waves` | What Happens When Two Waves Meet Head-On? | Physics Vol. 1 §16.6 | MEDHAVY | am_michael | 7 | 2:03 | published (YouTube Short) | no | no | no |
+| `medhavy-steel-ship-buoyancy` | Why Does A Steel Ship Float? | Physics Vol. 1 §14.4 | MEDHAVY | am_michael | 7 | 1:40 | published (YouTube Short) | no | no | no |
+| `medhavy-terminal-velocity` | Why Does A Skydiver Stop Speeding Up? | Physics Vol. 1 §6.4 | MEDHAVY | am_michael | 5 | 1:01 | published (YouTube Short) | no | no | no |
+| `medhavy-tidal-bulges` | Why Are There Two Tidal Bulges? | Physics Vol. 1 §13.6 | MEDHAVY | am_michael | 6 | 1:45 | published (YouTube Short) | no | no | no |
+| `medhavy-zero-work-carrying` | How Much Work Does Carrying A Box Do? | Physics Vol. 1 §7.1 | MEDHAVY | am_michael | 6 | 1:40 | published (YouTube Short) | no | no | no |
 
-_The Manim scripts in the fifteen projects from `medhavy-centripetal-friction` onward share `medhavy_common.py` in this folder; the first six (`medhavy-ball-and-feather` to `medhavy-weight-vs-mass`) are standalone._
+_The Manim scripts in the twenty-three projects from `medhavy-centripetal-friction` onward share `medhavy_common.py` in this folder; the first six (`medhavy-ball-and-feather` to `medhavy-weight-vs-mass`) are standalone._
 
 ## Repository conventions
 
@@ -66,7 +74,7 @@ _This inventory is generated from the current filesystem and should be refreshed
 
 # Claude For Physics
 
-This folder organizes **27 video projects** built around beat sheets. Each project README explains the subject, supplies research and fact-check prompts, and documents the free local rebuild workflow.
+This folder organizes **35 video projects** built around beat sheets. Each project README explains the subject, supplies research and fact-check prompts, and documents the free local rebuild workflow.
 
 ## Rebuild toolkit
 
@@ -108,5 +116,13 @@ Brutalist is audio-first and local: the beat sheet drives narration, measured au
 - [How Can Tiny Footsteps Sway A Bridge?](./medhavy-resonance/)
 - [How Does A Rocket Accelerate In Empty Space?](./medhavy-rocket-propulsion/)
 - [How Fast Is The Bottom Of A Rolling Wheel?](./medhavy-rolling-wheel/)
+- [What Do A Spring And A Spinning Wheel Share?](./medhavy-shm-circular-motion/)
+- [What Happens At The Speed Of Sound?](./medhavy-sonic-boom/)
+- [Why Does A Skater Spin Faster With Arms In?](./medhavy-spinning-skater/)
+- [What Happens When Two Waves Meet Head-On?](./medhavy-standing-waves/)
+- [Why Does A Steel Ship Float?](./medhavy-steel-ship-buoyancy/)
+- [Why Does A Skydiver Stop Speeding Up?](./medhavy-terminal-velocity/)
+- [Why Are There Two Tidal Bulges?](./medhavy-tidal-bulges/)
+- [How Much Work Does Carrying A Box Do?](./medhavy-zero-work-carrying/)
 
 <!-- END BRUTALIST REBUILD GUIDE -->
